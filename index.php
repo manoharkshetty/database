@@ -1,4 +1,7 @@
+
 <?php
+/* php program to insert information  into the database */
+
 	if(isset($_POST['submit'])) {
 		$fname=$_POST['firstname'];
 		$lname=$_POST['lastname'];
